@@ -20,6 +20,7 @@ I'm a rising 4th year student at Michigan State University and an aspring full-s
 - Windows Subsystem for Linux (WSL)/Ubuntu
 - Vim Motions
 #### Tier III (Working on it!)
+- FastAPI
 - React.js
 - Next.js
 - Database Fundamentals
@@ -27,6 +28,7 @@ I'm a rising 4th year student at Michigan State University and an aspring full-s
 ## Highlights :dart:
 - [**Text-to-Minecraft**](https://github.com/ryyHardy/text-to-minecraft): A Minecraft bot that uses AI to build large structures in-game based on user prompts.
 - [**DevDucks**](https://github.com/ryyHardy/dev-ducks): A VSCode extension concept (and [hackathon project](https://devpost.com/software/social-ducky?ref_content=my-projects-tab&ref_feature=my_projects)) which displays a chat panel in the active window, like a Twitch stream, populated with imaginary chatters that comment on your code as you type.
+  - I was responsible for the FastAPI, AI-powered backend.
 - [**Frontend Mentor Challenges**](https://www.frontendmentor.io/profile/ryyHardy): My favorite platform to practice frontend skills. It is closer to actual frontend develpment because users have to implement code to match provided designs and specifications. My submissions are all in repositories and they can also be found on the website itself.
 
 <!---
