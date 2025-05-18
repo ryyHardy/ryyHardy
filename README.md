@@ -9,7 +9,7 @@ I'm a rising 4th year student at Michigan State University and an aspring full-s
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryyHardy)](https://github.com/anuraghazra/github-readme-stats)
 
-## Skills
+## Skills 🔧
 ### Technology
 #### Tier I (Specialties)
 - Python
