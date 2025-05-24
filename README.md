@@ -5,7 +5,7 @@
 </div>
 
 # What's good! I'm Ryan :dna:
-I'm a rising 4th year student at Michigan State University and an aspring full-stack web developer. I am a detail-oriented thinker who is very emotionally attached to my work, which can be both a blessing and a curse (as shown by all the unfinished projects 😅). Still, I just enjoy the process of implementing my ideas, wherever it goes. I am a hungry learner and I stay busy putting new things in my brain (may have worded that weirdly).
+I'm a rising 4th year student at Michigan State University and an aspring full-stack web developer. I am a detail-oriented thinker who is very emotionally attached to my projects, sometimes to a fault. I enjoy the process of seeing my ideas through, and I am hungry to learn everything I can along the way.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryyHardy)](https://github.com/anuraghazra/github-readme-stats)
 
