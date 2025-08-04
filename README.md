@@ -15,15 +15,13 @@ I'm a rising 4th year student at Michigan State University and an aspring full-s
 - Python
 #### Tier II (Confident)
 - HTML/CSS
-- JavaScript
+- JavaScript/TypeScript
 - Git/GitHub
-- Windows Subsystem for Linux (WSL)/Ubuntu
-- Vim Motions
 #### Tier III (Working on it!)
 - FastAPI
 - React.js
 - Next.js
-- TypeScript
+- Electron
 
 ## Highlights :dart:
 - [**PokéViewer**](https://github.com/ryyHardy/poke-viewer): The zen-like Pokémon encylcopedia! Find key information on any Pokémon you want, presented in a clean and concise way. Give it a try at [pokeviewer.vercel.app](https://pokeviewer.vercel.app/).
