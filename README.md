@@ -28,7 +28,7 @@ I'm a 4th year student at Michigan State University and an aspring full-stack we
 - [**Text-to-Minecraft**](https://github.com/ryyHardy/text-to-minecraft): A Minecraft bot that uses AI to build large structures in seconds based on user prompts.
 - [**DevDucks**](https://github.com/ryyHardy/dev-ducks): A VSCode extension concept (and [hackathon project](https://devpost.com/software/social-ducky?ref_content=my-projects-tab&ref_feature=my_projects)) which displays a chat panel in the active window, like a Twitch stream, populated with imaginary chatters that comment on your code as you type.
   - I was responsible for the FastAPI backend and the AI chat it provides.
-- [**Frontend Mentor Challenges**](https://www.frontendmentor.io/profile/ryyHardy): My favorite platform to practice frontend skills. It is closer to actual frontend develpment because users have to implement code to match provided designs and specifications. My submissions are all in repositories and they can also be found on the site itself.
+- [**Frontend Mentor Challenges**](https://www.frontendmentor.io/profile/ryyHardy): My favorite platform to practice frontend skills in a realistic way. The repositories for my solutions have `fm-` in front of their names.
 
 <!---
 ryyHardy/ryyHardy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
