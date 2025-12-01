@@ -11,7 +11,7 @@ I'm an aspiring frontend engineer and 4th-year Michigan State student with an ad
 - I have a great feel for software design principles (...and don't worry. I've learned the hard way to not overengineer everything before the MVP).
 - If (when) those principles break down, I will revel in the jank if need be. We all get our hands dirty at some point!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryyHardy)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryyHardy)](https://github.com/anuraghazr/github-readme-stats)
 
 ## Skills 🔧
 ### Technology
