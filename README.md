@@ -5,23 +5,26 @@
 </div>
 
 # What's good! I'm Ryan :dna:
-I'm a 4th year student at Michigan State University and an aspring full-stack web developer. I am a detail-oriented thinker who is very emotionally attached to my projects, sometimes to a fault. I enjoy the process of seeing my ideas through, and I am hungry to learn everything I can along the way.
+I'm an aspiring frontend engineer and 4th-year Michigan State student with an advanced eye for UI/UX. 
+- You will usually find me obsessing over small quality-of-life details that improve apps in the little ways. Every interaction counts!
+- I am a detail-oriented thinker who is very emotionally attached to my projects, which may or may not come back to bite me.
+- I have a great feel for software design principles (...and don't worry. I've learned the hard way to not overengineer everything before the MVP).
+- If (when) those principles break down, I will revel in the jank if need be. We all get our hands dirty at some point!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryyHardy)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryyHardy&layout=compact)
 
 ## Skills 🔧
 ### Technology
 #### Tier I (Specialties)
-- Python
-#### Tier II (Confident)
 - HTML/CSS
-- JavaScript/TypeScript
-- Git/GitHub
-#### Tier III (Working on it!)
+- Python
+- TypeScript
+#### Tier II (Confident)
 - React
+#### Tier III (Working on it!)
 - Electron
 - NextJS
-- FastAPI
+- Flask
 
 ## Highlights :dart:
 - [**PokéViewer**](https://github.com/ryyHardy/poke-viewer): The zen-like Pokémon encylcopedia! Find key information on any Pokémon you want, presented in a clean and concise way. Give it a try at [pokeviewer.vercel.app](https://pokeviewer.vercel.app/).
