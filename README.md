@@ -33,7 +33,7 @@ I'm a dedicated software engineer and graduating Michigan State student with an 
 - [**Text-to-Minecraft**](https://github.com/ryyHardy/text-to-minecraft): A Minecraft bot that uses AI to build large structures in seconds based on user prompts. I also wrote a companion app for it that you can try out!
 - [**Typing Stats Obsidian Plugin**](https://community.obsidian.md/plugins/typing-stats): I love taking notes with Obsidian, and I've been trying to improve my WPM recently. So, this plugin was born! It compiles a bunch of typing stats like WPM, net characters, and time elapsed. I also came up with a neat algorithm for it to detect mistakes (despite not having target text). It has been released, so look it up in the community plugins repo!
 
-> ^ My project does not include closed-source or university projects. These are just my independent endeavors.
+> ^ This does not include closed-source or university projects. These are just my independent endeavors.
 
 <!---
 ryyHardy/ryyHardy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
