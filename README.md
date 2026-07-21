@@ -5,7 +5,7 @@
 </div>
 
 # What's good! I'm Ryan :dna:
-I'm an obsessed software engineer and graduating Michigan State student with an advanced eye for UI/UX and software design principles. 
+I'm a dedicated software engineer and graduating Michigan State student with an advanced eye for UI/UX and software design principles. 
 - You will usually find me obsessing over small quality-of-life details that improve apps in the little ways. You might want to reel me in with some of those.
 - I am a detail-oriented thinker who is very emotionally attached to my projects, which may or may not come back to bite me.
 - I have a great feel for software design principles (...and don't worry. I've learned the hard way to not overengineer everything before the first prototype).
